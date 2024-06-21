@@ -1,1 +1,14 @@
-Python code that runs as an exe which takes in a filepath to a discord data pack which creates graphs and displays stats. Made with Python, Pandas, and Pyinstaller.
+# Discord Data Analyzer
+
+## Intro
+A desktop application which extracts data from Discord Packages.
+
+## Key Features 
+- Pulls data from official Discord packages
+- Creates graphs of the data
+- Creates a .csv
+- Finds and display keypoints from the data
+  
+## Used Things
+### Client
+- Python (Pandas, Pyplot, Tkinter, Pyinstaller)
