@@ -1,7 +1,7 @@
 # Discord Data Analyzer
 
 ## Intro
-A desktop application which extracts data from Discord Packages.
+A desktop GUI application which extracts data from Discord Packages.
 
 ## Key Features 
 - Pulls data from official Discord packages
